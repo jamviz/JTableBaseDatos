@@ -122,7 +122,7 @@ public class VentanaConsulta extends JFrame implements ActionListener {
 		getContentPane().add(mibarra1);
 		
 		btnActualizar = new JButton("");
-		btnActualizar.setRolloverIcon(new ImageIcon("C:\\Users\\USER\\Downloads\\refresh31.png"));
+		btnActualizar.setRolloverIcon(new ImageIcon("E:\\Eclipse IDE\\Workspace\\JamJTable\\imagen\\refresh30.png"));
 		btnActualizar.setBackground(new Color(51, 204, 0));
 		btnActualizar.setDoubleBuffered(true);
 		btnActualizar.setSelected(true);
@@ -131,7 +131,7 @@ public class VentanaConsulta extends JFrame implements ActionListener {
 		btnActualizar.setFocusPainted(false);
 		btnActualizar.setFocusable(false);
 		btnActualizar.setBorder(null);
-		btnActualizar.setIcon(new ImageIcon("C:\\Users\\USER\\Downloads\\refresh3.png"));
+		btnActualizar.setIcon(new ImageIcon("E:\\Eclipse IDE\\Workspace\\JamJTable\\imagen\\refresh31.png"));
 		btnActualizar.setFont(new Font("Montserrat SemiBold", Font.PLAIN, 14));
 		btnActualizar.setBounds(203, 316, 90, 67);
 		getContentPane().add(btnActualizar);
